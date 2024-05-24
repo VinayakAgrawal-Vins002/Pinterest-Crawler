@@ -27,7 +27,7 @@ pinterest-crawler --keywords my_keywords.txt
 Pinterest Crawler may also be used directly in the Python Script named Crawler, for easier use by Begineers follow the Below Steps:
 
 ```python
-1. 'pip install pinterest-crawler' Through the Terminal
+1. 'pip install pinterest-crawler' Through the Terminal OR just pip install requirements.txt
 2. Clone or Download the Crawler.py File 
 3. Make appropriate Changes as per your requirements in the File as prompted by the Comments [Search Strings, Download Paths, Counts, etc]
 4. Run The Script 'python -u "path\to\the\file\Crawler.py"'
