@@ -13,11 +13,14 @@ It can Loop over Multiple Search Strings, with an approximate amount of images t
 Pinterest Crawler may be used directly in the Command Line Interface (CLI):
 
 ```python
-pinterest-crawler --keywords AI Art
+pinterest-crawler --keywords AI Art Animated
 ```
 
 Also you can write your favorite keywords in a file for example `my_keywords.txt` and set path of file in `--keywords` argument.
 
+```python
+pinterest-crawler --keywords my_keywords.txt
+```
 
 ### Python Script
 
@@ -31,8 +34,8 @@ Pinterest Crawler may also be used directly in the Python Script named Crawler, 
 ```
 
 ### Issues
-[ ] I Did Notice some Issue with my Download Loop, which either Tends To Terminate Too Early or Keeps Downloading Even After Reaching the Count and Therefore Has To Be Terminated Manually From The Terminal using 'Ctrl + C' sometimes.
+- [ ] I Did Notice some Issue with my Download Loop, which either Tends To Terminate Too Early or Keeps Downloading Even After Reaching the Count and Therefore Has To Be Terminated Manually From The Terminal using 'Ctrl + C' sometimes.
 
 ### NOTE
-[ ] This is my First Repository Fork, please forgive me if I may have made any issues in the Crawler Script or mistakes while Forking as this was just a Learning Experiance For me, and Vist the Main Branch By @Sajjad Aemmi For More Clarification on the Main Crawler. Thank you for your understanding.
-[ ] I plan on using the Downloaded Images with  the AutoChange Wallpaper App For Changing Images From Everytime I unlock my Phone. For That Reason I wanted to Have a variety of Images Suitable For Wallpapers and neaty Organised this was what created the need for writing an Simple Script to Automate this process. Will add the Repo Link Here if Someone wants to access the Wallpaper Images.
+- [ ] This is my First Repository Fork, please forgive me if I may have made any issues in the Crawler Script or mistakes while Forking as this was just a Learning Experiance For me, and Vist the Main Branch By @Sajjad Aemmi For More Clarification on the Main Crawler. Thank you for your understanding.
+- [ ] I plan on using the Downloaded Images with  the AutoChange Wallpaper App For Changing Images From Everytime I unlock my Phone. For That Reason I wanted to Have a variety of Images Suitable For Wallpapers and neaty Organised this was what created the need for writing an Simple Script to Automate this process. Will add the Repo Link Here if Someone wants to access the Wallpaper Images.
