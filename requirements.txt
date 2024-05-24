@@ -1,2 +1,6 @@
+os
+time
+shutil
 requests
+subprocess
 pinterest-crawler
