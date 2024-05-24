@@ -1,1 +1,2 @@
 requests
+pinterest-crawler
