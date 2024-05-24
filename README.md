@@ -1,21 +1,8 @@
-# Pinterest Crawler
-
-[![Upload Python Package](https://github.com/SajjadAemmi/Pinterest-Crawler/actions/workflows/python-publish.yml/badge.svg)](https://github.com/SajjadAemmi/Pinterest-Crawler/actions/workflows/python-publish.yml)
-[![Python package](https://github.com/SajjadAemmi/Pinterest-Crawler/actions/workflows/python-package.yml/badge.svg)](https://github.com/SajjadAemmi/Pinterest-Crawler/actions/workflows/python-package.yml)
-[![Python application](https://github.com/SajjadAemmi/Pinterest-Crawler/actions/workflows/python-app.yml/badge.svg)](https://github.com/SajjadAemmi/Pinterest-Crawler/actions/workflows/python-app.yml)
-[![Downloads](https://static.pepy.tech/badge/pinterest-crawler)](https://pepy.tech/project/pinterest-crawler)
+# Pinterest Crawler Script
 
 <img src="https://raw.githubusercontent.com/SajjadAemmi/Pinterest-Crawler/main/Pinterest-Logo.png" width="400px">
 
-Downloads HD images from pinterest by your favorite keywords. A useful tool to create a dataset for machine learning projects.
-
-## Install
-
-Install the package with pip in a Python>=3.8 environment:
-
-```bash
-pip install pinterest-crawler
-```
+Download Images from Pinterest using keywords in a Script rather than Manually using the Command Prompt Everytime.
 
 ## Usage
 
