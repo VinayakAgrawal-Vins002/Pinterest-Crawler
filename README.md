@@ -38,4 +38,6 @@ Pinterest Crawler may also be used directly in the Python Script named Crawler, 
 
 ### NOTE
 - [ ] This is my First Repository Fork, please forgive me if I may have made any issues in the Crawler Script or mistakes while Forking as this was just a Learning Experiance For me, and Vist the Main Branch By @Sajjad Aemmi For More Clarification on the Main Crawler. Thank you for your understanding.
-- [ ] I plan on using the Downloaded Images with  the AutoChange Wallpaper App For Changing Images From Everytime I unlock my Phone. For That Reason I wanted to Have a variety of Images Suitable For Wallpapers and neaty Organised this was what created the need for writing an Simple Script to Automate this process. Will add the Repo Link Here if Someone wants to access the Wallpaper Images.
+- [ ] I plan on using the Downloaded Images with  the AutoChange Wallpaper App For Changing Images From Everytime I unlock my Phone - wanting to Have a variety of Images Suitable as Wallpapers and neatly Organised at the same time in different sub-folders based on their topics just in case I ever need to access them.
+- [ ] This was the Motivaion For writing an Automation Script - Rather than doing this downloadig process manually For each search term I wanted a Script that I could use To Automate the Downloading while I would sit back and relax.
+- [ ] Will add the Repo Link Here if Someone wants to access my Filtered Images or use the same For themselves with the Wallpaper App.
