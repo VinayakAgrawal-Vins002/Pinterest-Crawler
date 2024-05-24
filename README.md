@@ -36,7 +36,7 @@ Pinterest Crawler may also be used directly in the Python Script named Crawler, 
 ### Issues
 - [ ] I Did Notice some Issue with my Download Loop, which either Tends To Terminate Too Early or Keeps Downloading Even After Reaching the Count and Therefore Has To Be Terminated Manually From The Terminal using 'Ctrl + C' sometimes.
 
-### NOTE
+### Notes
 - [ ] This is my First Repository Fork, please forgive me if I may have made any issues in the Crawler Script or mistakes while Forking as this was just a Learning Experiance For me, and Vist the Main Branch By @Sajjad Aemmi For More Clarification on the Main Crawler. Thank you for your understanding.
 - [ ] I plan on using the Downloaded Images with  the AutoChange Wallpaper App For Changing Images From Everytime I unlock my Phone - wanting to Have a variety of Images Suitable as Wallpapers and neatly Organised at the same time in different sub-folders based on their topics just in case I ever need to access them.
 - [ ] This was the Motivaion For writing an Automation Script - Rather than doing this downloadig process manually For each search term I wanted a Script that I could use To Automate the Downloading while I would sit back and relax.
