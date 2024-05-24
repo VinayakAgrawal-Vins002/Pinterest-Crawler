@@ -2,7 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/SajjadAemmi/Pinterest-Crawler/main/Pinterest-Logo.png" width="400px">
 
-Download Images from Pinterest using keywords in a Script rather than Manually using the Command Prompt Everytime.
+Download Images from Pinterest using keywords Defined in a Simple Script rather than Manually using the Command Prompt Everytime, or Making Changes in the Crawler Function which I believe to be Harder for Beginners in Coding Like Me. The Crawler Script Gives Access to a small amount of Customization For Better Organisatation.
+
+It can Loop over Multiple Search Strings, with an approximate amount of images to download per individual search (if you want to limit the download) and later onn Organise the images in Named Folders as and when the entire Search has been downloaded. 
 
 ## Usage
 
@@ -10,35 +12,27 @@ Download Images from Pinterest using keywords in a Script rather than Manually u
 
 Pinterest Crawler may be used directly in the Command Line Interface (CLI):
 
-```bash
-pinterest-crawler --keywords lion tiger bear
+```python
+pinterest-crawler --keywords AI Art
 ```
 
-Also you can write your favorite keywords in a file for example `my_keywords.txt` and set path of file in `--keywords` argument:
+Also you can write your favorite keywords in a file for example `my_keywords.txt` and set path of file in `--keywords` argument.
 
-```bash
-pinterest-crawler --keywords my_keywords.txt
-```
 
-### Python
+### Python Script
 
-Pinterest Crawler may also be used directly in a Python environment, and accepts the same arguments as in the CLI example above:
+Pinterest Crawler may also be used directly in the Python Script named Crawler, for easier use by Begineers follow the Below Steps:
 
 ```python
-from pinterest_crawler import PinterestCrawler
-
-
-pinterest_crawler = PinterestCrawler()
-pinterest_crawler(keywords=['lion', 'programmer'])
+1. 'pip install pinterest-crawler' Through the Terminal
+2. Clone or Download the Crawler.py File 
+3. Make appropriate Changes as per your requirements in the File as prompted by the Comments [Search Strings, Download Paths, Counts, etc]
+4. Run The Script 'python -u "path\to\the\file\Crawler.py"'
 ```
 
-<!-- Due to some limitations of Pinterest, you can download 100 images per keyword. If you want to download more images, you can run following command for infinite execution:
+### Issues
+[ ] I Did Notice some Issue with my Download Loop, which either Tends To Terminate Too Early or Keeps Downloading Even After Reaching the Count and Therefore Has To Be Terminated Manually From The Terminal using 'Ctrl + C' sometimes.
 
-```
-python loop.py
-``` -->
-
-## TODO
-- [ ] download images in a loop
-- [ ] download images in a specific size
-- [ ] download images in a specific format
+### NOTE
+[ ] This is my First Repository Fork, please forgive me if I may have made any issues in the Crawler Script or mistakes while Forking as this was just a Learning Experiance For me, and Vist the Main Branch By @Sajjad Aemmi For More Clarification on the Main Crawler. Thank you for your understanding.
+[ ] I plan on using the Downloaded Images with  the AutoChange Wallpaper App For Changing Images From Everytime I unlock my Phone. For That Reason I wanted to Have a variety of Images Suitable For Wallpapers and neaty Organised this was what created the need for writing an Simple Script to Automate this process. Will add the Repo Link Here if Someone wants to access the Wallpaper Images.
