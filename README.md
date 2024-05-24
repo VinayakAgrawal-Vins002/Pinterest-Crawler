@@ -1,6 +1,6 @@
 # Pinterest Crawler Script
 
-<img src="https://raw.githubusercontent.com/SajjadAemmi/Pinterest-Crawler/main/Pinterest-Logo.png" width="400px">
+<img src="https://github.com/VinayakAgrawal-Vins002/Pinterest-Crawler/blob/main/Pinterest-Logo.png" width="400px">
 
 Download Images from Pinterest using keywords Defined in a Simple Script rather than Manually using the Command Prompt Everytime, or Making Changes in the Crawler Function which I believe to be Harder for Beginners in Coding Like Me. The Crawler Script Gives Access to a small amount of Customization For Better Organisatation.
 
